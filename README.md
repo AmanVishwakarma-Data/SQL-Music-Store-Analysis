@@ -42,7 +42,7 @@ The Chinook database includes these main tables:
 - **Employee** – support representatives  
 
 The complete database diagram is available here:  
-`chinook_erd.png`
+![chinook_erd.png](https://github.com/AmanVishwakarma-Data/SQL-Music-Store-Analysis/blob/main/chinook_erd.png)
 
 ---
 
@@ -61,6 +61,6 @@ The complete database diagram is available here:
 ## 📜 SQL Queries Included
 
 All important SQL queries are stored in:
-`complete_project_queries.sql`
+[complete_project_queries.sql](https://github.com/AmanVishwakarma-Data/SQL-Music-Store-Analysis/blob/main/complete_project_queries.sql)
 
 
